@@ -10,7 +10,9 @@ namespace BranchingAndMerging
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi Pete!");
+            Console.WriteLine("SuperDope!");
+
+            
         }
     }
 }
